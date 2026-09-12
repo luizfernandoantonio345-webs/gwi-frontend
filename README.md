@@ -56,4 +56,8 @@ src/
 ## Deploy
 
 Publicado como site estático (build do Vite). A URL da API é definida por `VITE_API_BASE`
-no ambiente de build.
+no ambiente de build. O deploy é automático a cada push na branch `master`.
+
+## Licença
+
+Uso interno — GRAMO Engenharia. Todos os direitos reservados.
