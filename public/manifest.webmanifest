@@ -1,0 +1,20 @@
+{
+  "name": "GWI Materiais · GRAMO",
+  "short_name": "GWI Materiais",
+  "description": "Gestão de almoxarifado e estoque da GRAMO Engenharia.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#02070b",
+  "theme_color": "#02070b",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
